@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="title">Welcome to Tic-Tac-Toe</string>
+    <string name="description">Grid</string>
+    <string name="player_x"><i>Player X Turn - Tap to Continue</i></string>
+    <string name="player_o"><i>Player O Turn - Tap to Continue</i></string>
+    <string name="player_o_win"><i>Player O is Winner</i></string>
+    <string name="player_x_win"><i>Player X is Winner</i></string>
+</resources>
